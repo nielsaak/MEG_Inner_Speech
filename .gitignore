@@ -163,3 +163,5 @@ data/*
 
 # ds store
 .DS_Store
+
+output/
